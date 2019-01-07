@@ -1,0 +1,10 @@
+{
+  "name": "get-set-node-oss",
+  "version": "1.0.0",
+  "description": "One command setup for your Node OSS project",
+  "scripts": {
+    "build": "npx license mit > LICENSE && npx gitignore node && npx covgen"
+  },
+  "author": "Harshit Juneja",
+  "license": "MIT"
+}
