@@ -6,5 +6,17 @@
     "build": "npx license mit > LICENSE && npx gitignore node && npx covgen"
   },
   "author": "Harshit Juneja",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitjuneja/get-set-node-oss.git"
+  },
+  "keywords": [
+    "node",
+    "boilerplate","gitignore","MIT","OSS"
+  ],
+  "bugs": {
+    "url": "https://github.com/harshitjuneja/get-set-node-oss/issues"
+  },
+  "homepage": "https://github.com/harshitjuneja/get-set-node-oss#readme"
 }
